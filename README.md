@@ -30,7 +30,7 @@
   ### Reach me 📫:
   
   <a href="https://twitter.com/imprudenza" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40"/></a>
-  <a href="https://t.me/lcfvn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
+  <a href="https://t.me/favo02" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
   <a href="https://discordapp.com/users/232207308963184640" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40"/></a>
   
     
