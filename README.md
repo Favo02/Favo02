@@ -24,6 +24,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Favo02&layout=compact&theme=dark&count_private=true)
     
+![Views count](https://komarev.com/ghpvc/?username=Favo02&style=for-the-badge)
+    
   </details>
 
   
