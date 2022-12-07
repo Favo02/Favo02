@@ -1,8 +1,8 @@
 <div align=center>
   
-  ### 👋 Hi, I’m **@Favo02**, aka _[imprudenza](https://twitter.com/imprudenza)_, 🎓 a computer science student @ [UniMi](https://en.wikipedia.org/wiki/University_of_Milan)
+  ### 👋 Hi, I’m **[@Favo02](https://github.com/Favo02)**, aka _[imprudenza](https://twitter.com/imprudenza)_, 🎓 a computer science student @ [UniMi](https://en.wikipedia.org/wiki/University_of_Milan)
   
-  #### 🎮 I’m also a former Rainbow Six Siege and Minecraft competitive player _(ik it sounds funny and cringe)_
+  #### 🎮 I’m also a former Rainbow Six Siege and Minecraft competitive player _(ik it sounds both funny and cringe)_
   
   #### 🙃 _You can recognize me IRL by the smurf attached to my backpack_
 
@@ -14,9 +14,15 @@
   
   <br>
   
+   ### Reach me 📫:
+  
+  <a href="https://twitter.com/imprudenza" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40"/></a>
+  <a href="https://t.me/favo02" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
+  <a href="https://discordapp.com/users/232207308963184640" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40"/></a>    
     
- ### A few _hidden_ stats 👀:
+   <br>
     
+ ### A few _useless_ stats 👀:
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Favo02&count_private=true&show_icons=true&theme=dark&hide=contribs,stars)
     
@@ -24,13 +30,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Favo02&layout=compact&theme=dark&count_private=true)
     
 ![Views count](https://komarev.com/ghpvc/?username=Favo02&style=for-the-badge)
-
-  
-  ### Reach me 📫:
-  
-  <a href="https://twitter.com/imprudenza" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40"/></a>
-  <a href="https://t.me/favo02" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
-  <a href="https://discordapp.com/users/232207308963184640" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40"/></a>    
   
   
   
