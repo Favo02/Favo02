@@ -10,7 +10,7 @@
  
   ### I am familiar with 🤝:
 
-  ![My Skills](https://skillicons.dev/icons?i=go,java,php,html,css,js,react,nodejs,mongodb,mysql)
+  ![My Skills](https://skillicons.dev/icons?i=go,java,php,html,css,tailwind,js,react,nodejs,mongodb,mysql)
   
   <br>
   
