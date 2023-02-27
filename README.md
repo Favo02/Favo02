@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m **[@Favo02](https://github.com/Favo02)**, a computer science student 🎓 at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
+### 👋 Hi, I’m **[@Favo02](https://github.com/Favo02)**, a computer science student 🎓 at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
   
 <br>
 
@@ -30,10 +30,10 @@
 Reach me out on my social media:\
 *(website work in progress)*
 
-<a href="https://github.com/Favo02" target="_blank" title="Work in progress"><img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" width="50"/></a>
-<a href="https://www.linkedin.com/in/lucafavini/" target="_blank" title="Linkedin"><img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50"/></a>
-<a href="https://t.me/favo02" target="_blank" title="Telegram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50"/></a>
-<a href="https://instagram.com/lcfvn" target="_blank" title="Instagram"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="50"/></a>
+<a href="https://github.com/Favo02" target="_blank" title="Work in progress"><img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" width="45"/></a>
+<a href="https://www.linkedin.com/in/lucafavini/" target="_blank" title="Linkedin"><img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="45"/></a>
+<a href="https://t.me/favo02" target="_blank" title="Telegram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/></a>
+<a href="https://instagram.com/lcfvn" target="_blank" title="Instagram"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="45"/></a>
 
 #### 🙃 You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack
 
