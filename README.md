@@ -31,21 +31,10 @@ Reach me out on my social media:\
 *(website work in progress)*
 
 <a href="https://github.com/Favo02" target="_blank" title="Work in progress"><img src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" width="45"/></a>
-<a href="https://www.linkedin.com/in/lucafavini/" target="_blank" title="Linkedin"><img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="45"/></a>
 <a href="https://t.me/favo02" target="_blank" title="Telegram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/></a>
-<a href="https://instagram.com/lcfvn" target="_blank" title="Instagram"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="45"/></a>
 
 #### 🙃 You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack
 
-<br>
-
-## *Aka 🎮*
-
-*You may also know me as **[imprudenza](https://linktr.ee/imprudenza)**, a former **Rainbow Six Siege** and **Minecraft CWBW** competitive player.*
-
-<a href="https://linktr.ee/imprudenza" target="_blank" title="Linktree"><img src="https://cdn.icon-icons.com/icons2/903/PNG/512/link-1_icon-icons.com_69506.png" width="30"/></a>
-<a href="https://twitter.com/imprudenza" target="_blank" title="Twitter"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="30"/></a>
-<a href="https://discordapp.com/users/232207308963184640" target="_blank" title="Discord"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="30"/></a>
 
 <br>
 
