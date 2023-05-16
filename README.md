@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m _Luca_ aka _Favo02_, a computer science student at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
 <sup>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_</sup>
 
-### Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
+### 🌐 Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
 <sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
 
 
-## My interest (and notable projects):
+### 📋 My interest (and notable projects):
 
 - **Competitive programming**: `go`, `java`
 
@@ -40,7 +40,7 @@
 <br>
 
 <details>
-  <summary>Useless stats 👀</summary>
+  <summary>📈 Useless stats</summary>
   
   <br>
     
