@@ -1,4 +1,4 @@
-### 👋 Hi, I’m _Luca_ aka _Favo02_, a computer science student at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
+### 👋 Hi, I’m _Luca_ aka _Favo02_, a computer science student at _[UniMi](https://en.wikipedia.org/wiki/University_of_Milan)_ based in _Milan, Italy_
 <sup>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_</sup>
 
 ### 🌐 Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
@@ -9,7 +9,7 @@
 
 - **Competitive programming**: `go`, `java`
 
-  <img height="35" src="https://skillicons.dev/icons?i=go,java" />
+  <img height="30" src="https://skillicons.dev/icons?i=go,java" />
   
   - [Advent of code](https://github.com/Favo02/advent-of-code)
   - [Cloudflight Coding Contest](https://github.com/Favo02/cloudflight-coding-contest-2023)
@@ -17,7 +17,7 @@
 
 - **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `postgresql`
 
-  <img height="35" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
+  <img height="30" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
 
   - [favo02.dev](https://github.com/Favo02/favo02.dev)
   - _[Instrumentation management software for a company, working on an open source clone]_
@@ -25,7 +25,7 @@
 
 - **Open source software**: `javascript`, `java`
 
-  <img height="35" src="https://skillicons.dev/icons?i=javascript,java" />
+  <img height="30" src="https://skillicons.dev/icons?i=javascript,java" />
 
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps)
   - [Java algorithms and structures](https://github.com/Favo02/java-algorithms-and-structures)
@@ -33,7 +33,7 @@
 
 - **Security CTFs** _(althought I'm terrible)_: `c`, `bash`, `python`
  
-  <img height="35" src="https://skillicons.dev/icons?i=c,bash,python" />
+  <img height="30" src="https://skillicons.dev/icons?i=c,bash,python" />
   
   - [PWN college](https://pwn.college/dojos)
 
