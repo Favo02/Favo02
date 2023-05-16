@@ -1,8 +1,9 @@
-### 👋 Hi, I’m **[@Favo02](https://github.com/Favo02)**, a computer science student 🎓 at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
+### 👋 Hi, I’m _Luca_ aka _Favo02_, a computer science student at [UniMi](https://en.wikipedia.org/wiki/University_of_Milan) based in *Milan, Italy 🇮🇹*
+<sup>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_</sup>
 
-#### _You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_
-  
-<br>
+### Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
+<sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
+
 
 ## My interest (and notable projects):
 
@@ -18,7 +19,7 @@
 
   <img height="35" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
 
-  - [favo02.dev](https://github.com/Favo02/favo02.dev) [work in progress]
+  - [favo02.dev](https://github.com/Favo02/favo02.dev)
   - _[Instrumentation management software for a company, working on an open source clone]_
 
 
