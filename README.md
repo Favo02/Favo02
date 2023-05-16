@@ -27,8 +27,8 @@
 
   <img height="30" src="https://skillicons.dev/icons?i=javascript,java" />
 
-  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps)
-  - [Java algorithms and structures](https://github.com/Favo02/java-algorithms-and-structures)
+  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps) _[GNOME shell extension]_
+  - [Java algorithms and structures](https://github.com/Favo02/java-algorithms-and-structures) _[Utilities for competitive programming]_
 
 
 - **Security CTFs** _(althought I'm terrible)_: `c`, `bash`, `python`
