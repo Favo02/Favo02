@@ -41,9 +41,9 @@
   
   <br>
     
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Favo02&count_private=true&show_icons=true&theme=dark&hide=contribs,stars)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Favo02&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true&hide=contribs&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Favo02&layout=compact&theme=dark&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Favo02&layout=compact&theme=dark&count_private=false&langs_count=6&&hide_title=true)
   
   ![Views count](https://komarev.com/ghpvc/?username=Favo02&style=for-the-badge)  
 
