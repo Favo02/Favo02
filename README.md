@@ -17,7 +17,7 @@
   <img height="30" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
 
   - [favo02.dev](https://github.com/Favo02/favo02.dev)
-  - _[Instrumentation management software for a company, working on an open source clone]_
+  - [Social Network for Music](https://github.com/Favo02/social-network-for-music)
 
 
 - **Open source software**: `javascript`, `java`
