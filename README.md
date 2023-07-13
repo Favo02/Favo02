@@ -28,11 +28,11 @@
   - [Java algorithms and structures](https://github.com/Favo02/java-algorithms-and-structures) _[Utilities for competitive programming]_
 
 
-- **Security CTFs** _(althought I'm terrible)_: `c`, `bash`, `python`
+- **Security CTFs** _(althought I'm terrible)_: `c`, `bash`, `python`, `assembly`
  
   <img height="30" src="https://skillicons.dev/icons?i=c,bash,python" />
   
-  - [PWN college](https://pwn.college/dojos)
+  - [PWN college (sicurezza and privatezza)](https://github.com/Favo02/sicurezza-e-privatezza)
   
 </details>
 
