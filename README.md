@@ -1,3 +1,5 @@
+### 🎓 Check out my profile for University stuff: [@Favo02-unimi](https://github.com/favo02-unimi)
+
 ### 🌐 Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
 <sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
 
