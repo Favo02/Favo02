@@ -11,16 +11,16 @@
 
   <img height="30" src="https://skillicons.dev/icons?i=go,java" />
   
-  - [Advent of code](https://github.com/Favo02/advent-of-code)
-  - [Cloudflight Coding Contest](https://github.com/Favo02/cloudflight-coding-contest-2023)
+  - [LeetCode solutions](https://github.com/Favo02/leetcode) _[Competitive programming challenges and contests]_
+  - [Advent of code](https://github.com/Favo02/advent-of-code) _[Daily algorithmic challenges]_
 
 
 - **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `postgresql`
 
   <img height="30" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
 
-  - [favo02.dev](https://github.com/Favo02/favo02.dev)
-  - [Social Network for Music](https://github.com/Favo02/social-network-for-music)
+  - [favo02.dev](https://github.com/Favo02/favo02.dev) _[Personal website/portfolio]_
+  - [Social Network for Music](https://github.com/Favo02/social-network-for-music) _[Spotify fullstack clone]_
 
 
 - **Open source software**: `javascript`, `java`
@@ -35,7 +35,7 @@
  
   <img height="30" src="https://skillicons.dev/icons?i=c,bash,python" />
   
-  - [PWN college (sicurezza and privatezza)](https://github.com/Favo02/sicurezza-e-privatezza)
+  - [Sicurezza e Privatezza)](https://github.com/Favo02/sicurezza-e-privatezza) _[PWN college CTF]_
   
 </details>
 
