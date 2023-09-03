@@ -7,7 +7,7 @@
 <details>
   <summary>📋 My interest (and notable projects)</summary>
   
-- **Competitive programming**: `go`, `java`
+- **Competitive programming**: `c++`, `python`, `go`, `java`
 
   <img height="30" src="https://skillicons.dev/icons?i=go,java" />
   
