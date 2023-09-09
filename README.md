@@ -9,7 +9,7 @@
   
 - **Competitive programming**: `c++`, `python`, `go`, `java`
 
-  <img height="30" src="https://skillicons.dev/icons?i=go,java" />
+  <img height="30" src="https://skillicons.dev/icons?i=cpp,python,go,java" />
   
   - [LeetCode solutions](https://github.com/Favo02/leetcode) _[Competitive programming challenges and contests]_
   - [Advent of code](https://github.com/Favo02/advent-of-code) _[Daily algorithmic challenges]_
