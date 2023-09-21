@@ -1,7 +1,7 @@
-### ⚠️ All <ins>university</ins> 🎓 stuff has been moved to: [@Favo02-unimi](https://github.com/favo02-unimi)
+⚠️ **All <ins>university</ins> 🎓 stuff has been moved to: [@Favo02-unimi](https://github.com/favo02-unimi)**\
 <sup>_"Programmazione web e mobile" project, "Basi di dati" project, "Algoritmi" exercises and data structures and more..._</sup>
 
-### 🌐 Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)
+🌐 **Visit my personal website / portfolio: [favo02.dev](https://favo02.dev)**\
 <sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
 
 <details>
