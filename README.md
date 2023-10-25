@@ -5,51 +5,33 @@
 <sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
 
 <details>
-  <summary>📋 My interest (and notable projects)</summary>
+  <summary>📋 My <b>interest</b> and <b>notable projects</b></summary>
+
+  <br/>
   
-- **Competitive programming**: `c++`, `python`, `go`, `java`
+- **Competitive programming**: `python`, `c++`, `go`
 
-  <img height="30" src="https://skillicons.dev/icons?i=cpp,python,go,java" />
+  - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
+  - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang" title="Go" />
+
+  <br/>
+
+- **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `php`, `postgresql`
+
+  - [favo02.dev](https://github.com/Favo02/favo02.dev): _personal website/portfolio_ <img height="22" src="https://skillicons.dev/icons?i=typescript,react,tailwindcss" title="TypeScript, React, Tailwindcss" />
+  - [Social Network for Music](https://github.com/Favo02/social-network-for-music): _Spotify fullstack clone_ <img height="22" src="https://skillicons.dev/icons?i=javascript,react,express,tailwindcss,mongodb" title="JavaScript, React, Express, Tailwindcss, MongoDB" />
+  - [SuperUnimia](https://github.com/Favo02/super-unimia): _platform to manage university exam registrations_ <img height="22" src="https://skillicons.dev/icons?i=php,postgres" title="PHP, Postgres" />
+
+  <br/>
+
+- **Open source software and Various**: `javascript`, `ocaml`, `docker`, `linux`, `github actions`, `bash`, `x86 assembly`
+
+  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+  - [Linguaggi di programmazione](https://github.com/Favo02/linguaggi-di-programmazione): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
+  - [docker-compose](https://github.com/Favo02/docker-compose): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
+  - [Sicurezza e Privatezza)](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /><img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/0e96f118-8496-4d1e-8b29-3402f7f40dd2" title="Bash, x86 Assembly" />
   
-  - [LeetCode solutions](https://github.com/Favo02/leetcode) _[Competitive programming challenges and contests]_
-  - [Advent of code](https://github.com/Favo02/advent-of-code) _[Daily algorithmic challenges]_
-
-
-- **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `postgresql`
-
-  <img height="30" src="https://skillicons.dev/icons?i=javascript,typescript,react,express,tailwindcss,mongodb,postgresql" />
-
-  - [favo02.dev](https://github.com/Favo02/favo02.dev) _[Personal website/portfolio]_
-  - [Social Network for Music](https://github.com/Favo02/social-network-for-music) _[Spotify fullstack clone]_
-
-
-- **Open source software**: `javascript`, `java`
-
-  <img height="30" src="https://skillicons.dev/icons?i=javascript,java" />
-
-  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps) _[GNOME shell extension]_
-  - [Java algorithms and structures](https://github.com/Favo02/java-algorithms-and-structures) _[Utilities for competitive programming]_
-
-
-- **Security CTFs** _(althought I'm terrible)_: `c`, `bash`, `python`, `assembly`
- 
-  <img height="30" src="https://skillicons.dev/icons?i=c,bash,python" />
-  
-  - [Sicurezza e Privatezza)](https://github.com/Favo02/sicurezza-e-privatezza) _[PWN college CTF]_
-  
+  <br/>
 </details>
 
-<details>
-  <summary>📈 Useless stats</summary>
-  
-  <br>
-    
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Favo02&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true&hide=contribs&include_all_commits=true&icon_color=ffffff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Favo02&layout=compact&theme=dark&count_private=false&langs_count=6&&hide_title=true)
-  
-  ![Views count](https://komarev.com/ghpvc/?username=Favo02&style=for-the-badge)  
-
-</details>
-  
 <sub>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_</sub>
