@@ -27,7 +27,7 @@
 - **Open source software and Various**: `javascript`, `ocaml`, `docker`, `linux`, `github actions`, `bash`, `x86 assembly`
 
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
-  - [Linguaggi di programmazione](https://github.com/Favo02/linguaggi-di-programmazione): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
+  - [LP OCaML](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
   - [docker-compose](https://github.com/Favo02/docker-compose): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
   - [Sicurezza e Privatezza](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /> <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/d1808634-eeb1-4f64-80ca-e4d0afd2fb16" title="Bash, x86 Assembly" />
   
