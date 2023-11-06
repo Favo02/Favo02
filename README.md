@@ -28,6 +28,7 @@
 
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   - [LP OCaML](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
+  - [LP Erlang](https://github.com/Favo02/lp-erlang): _concurrent programming_ <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/3ddd85cf-1db3-4264-8c1d-4d50374bdd7c" title="Erlang" />
   - [docker-compose](https://github.com/Favo02/docker-compose): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
   - [Sicurezza e Privatezza](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /> <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/d1808634-eeb1-4f64-80ca-e4d0afd2fb16" title="Bash, x86 Assembly" />
   
