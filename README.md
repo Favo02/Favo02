@@ -24,7 +24,7 @@
 
   <br/>
 
-- **Open source software and Various**: `javascript`, `ocaml`, `docker`, `linux`, `github actions`, `bash`, `x86 assembly`
+- **Open source software and Various**: `javascript`, `ocaml`, `erlang`, `docker`, `linux`, `github actions`, `bash`, `x86 assembly`
 
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   - [LP OCaML](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
