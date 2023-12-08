@@ -11,8 +11,9 @@
   
 - **Competitive programming**: `python`, `c++`, `go`
 
+  - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang,python" title="Go, Python" />
+  - [Codeforces](https://github.com/Favo02/codeforces): _competitive programming contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
   - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
-  - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang" title="Go" />
 
   <br/>
 
