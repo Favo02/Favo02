@@ -11,6 +11,7 @@
   
 - **Competitive programming**: `python`, `c++`, `go`
 
+  - [Competitive programming](https://github.com/Favo02/competitive-programming): _container of all my competitive programming repositories_
   - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang,python" title="Go, Python" />
   - [Codeforces](https://github.com/Favo02/codeforces): _competitive programming contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
   - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
@@ -30,6 +31,7 @@
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   - [LP OCaML](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaML" />
   - [LP Erlang](https://github.com/Favo02/lp-erlang): _concurrent programming_ <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/3ddd85cf-1db3-4264-8c1d-4d50374bdd7c" title="Erlang" />
+  - [LP Scala](https://github.com/Favo02/lp-scala): _domain specific languages (DSL) parsing_ <img height="22" src="https://skillicons.dev/icons?i=scala" title="Scala" />
   - [docker-compose](https://github.com/Favo02/docker-compose): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
   - [Sicurezza e Privatezza](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /> <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/d1808634-eeb1-4f64-80ca-e4d0afd2fb16" title="Bash, x86 Assembly" />
   
