@@ -5,7 +5,7 @@
 <sup>_Find out more about me: past experience, interests, bio and how to **contact me**._</sup>
 
 <details>
-  <summary>📋 My <b>interest</b> and <b>notable projects</b></summary>
+  <summary>📋 My <b>interests</b> and <b>notable projects</b></summary>
 
   <br/>
   
@@ -18,7 +18,7 @@
 
   <br/>
 
-- **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `php`, `postgresql`
+- **Web development**: `javascript`, `typescript`, `react`, `express`, `tailwindcss`, `mongodb`, `php`, `postgresql`, `ocaml`, `svelte`
 
   - [CessAdvisor](https://github.com/Favo02/cess-advisor): _toilet review system_ <img height="22" src="https://skillicons.dev/icons?i=ocaml,svelte,postgres" title="OCaml, Svelte, Postgres" />
   - [favo02.dev](https://github.com/Favo02/favo02.dev): _personal website/portfolio_ <img height="22" src="https://skillicons.dev/icons?i=typescript,react,tailwindcss" title="TypeScript, React, Tailwindcss" />
