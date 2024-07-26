@@ -8,13 +8,20 @@
   <summary>📋 My <b>interests</b> and <b>notable projects</b></summary>
 
   <br/>
-  
-- **Competitive programming**: `python`, `c++`, `go`
+
+- **Competitive programming**: `python`, `go`
 
   - [Competitive programming](https://github.com/Favo02/competitive-programming): _container of all my competitive programming repositories_
   - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang,python" title="Go, Python" />
-  - [Codeforces](https://github.com/Favo02/codeforces): _competitive programming contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
-  - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python,cpp" title="Python, C++" />
+  - [Codeforces](https://github.com/Favo02/codeforces): _competitive programming contests_ <img height="22" src="https://skillicons.dev/icons?i=python" title="Python" />
+  - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python" title="Python" />
+
+  <br/>
+
+- **Open source Projects**: `javascript`, `docker`, `linux`, `github actions`
+
+  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+  - [HomeLab](https://github.com/Favo02/homelab): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
 
   <br/>
 
@@ -27,15 +34,15 @@
 
   <br/>
 
-- **Open source software and Various**: `javascript`, `ocaml`, `erlang`, `docker`, `linux`, `github actions`, `bash`, `x86 assembly`
+- **Noteworthy University courses**: `ocaml`, `erlang`, `scala`, `pandas`, `matplotlib`, `bash`, `x86 assembly`, `go`
 
-  - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   - [LP OCaml](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaml" />
   - [LP Erlang](https://github.com/Favo02/lp-erlang): _concurrent programming_ <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/3ddd85cf-1db3-4264-8c1d-4d50374bdd7c" title="Erlang" />
   - [LP Scala](https://github.com/Favo02/lp-scala): _domain specific languages (DSL) parsing_ <img height="22" src="https://skillicons.dev/icons?i=scala" title="Scala" />
-  - [HomeLab](https://github.com/Favo02/homelab): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
+  - [Statistica e Analisi dei dati](https://github.com/Favo02/statistica-e-analisi-dei-dati): _handbook for statistics course_ <img height="22" src="https://skillicons.dev/icons?i=python" title="Pandas, Matplotlib" />
   - [Sicurezza e Privatezza](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /> <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/d1808634-eeb1-4f64-80ca-e4d0afd2fb16" title="Bash, x86 Assembly" />
-  
+  - [Algoritmi e Strutture dati](https://github.com/Favo02-unimi/algoritmi-e-strutture-dati): _implementation of various algorithms and data structures_ <img height="22" src="https://skillicons.dev/icons?i=go" title="Go" />
+
   <br/>
 </details>
 
