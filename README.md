@@ -11,7 +11,7 @@
 
 - **Competitive programming**: `python`, `go`
 
-  - [Competitive programming](https://github.com/Favo02/competitive-programming): _container of all my competitive programming repositories_
+  - [Competitive programming](https://github.com/Favo02/competitive-programming): _all my competitive programming contests/events_  <img height="22" src="https://skillicons.dev/icons?i=python,cpp,golang,java" title="Python, C++, Go, Java" />
   - [Advent of code](https://github.com/Favo02/advent-of-code): _daily algorithmic challenges_ <img height="22" src="https://skillicons.dev/icons?i=golang,python" title="Go, Python" />
   - [LeetCode](https://github.com/Favo02/leetcode): _data structures and algorithms challenges and contests_ <img height="22" src="https://skillicons.dev/icons?i=python" title="Python" />
 
