@@ -46,4 +46,4 @@
   <br/>
 </details>
 
-<sub>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/2/26/Papasmurf1.jpg)** attached to my backpack_</sub>
+<sub>_You can recognize me IRL by the **[smurf](https://upload.wikimedia.org/wikipedia/en/7/79/Papa_smurf-comics_version.png)** attached to my backpack_</sub>
