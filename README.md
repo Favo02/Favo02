@@ -36,10 +36,11 @@
 
 - **Noteworthy University courses**: `ocaml`, `erlang`, `scala`, `pandas`, `matplotlib`, `bash`, `x86 assembly`, `go`
 
+  - [Algoritmi e Complessita](https://github.com/Favo02/algoritmi-e-complessita): _handbook for algorithms complexity theory course_ <img height="22" src="https://typst.app/assets/android-chrome-512x512.png" title="Typst" />
   - [LP OCaml](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaml" />
   - [LP Erlang](https://github.com/Favo02/lp-erlang): _concurrent programming_ <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/3ddd85cf-1db3-4264-8c1d-4d50374bdd7c" title="Erlang" />
   - [LP Scala](https://github.com/Favo02/lp-scala): _domain specific languages (DSL) parsing_ <img height="22" src="https://skillicons.dev/icons?i=scala" title="Scala" />
-  - [Statistica e Analisi dei dati](https://github.com/Favo02/statistica-e-analisi-dei-dati): _handbook for statistics course_ <img height="22" src="https://skillicons.dev/icons?i=python" title="Pandas, Matplotlib" />
+  - [Statistica e Analisi dei dati](https://github.com/Favo02/statistica-e-analisi-dei-dati): _handbook for statistics course_ <img height="22" src="https://typst.app/assets/android-chrome-512x512.png" title="Typst" /> <img height="22" src="https://skillicons.dev/icons?i=python" title="Pandas, Matplotlib" />
   - [Sicurezza e Privatezza](https://github.com/Favo02/sicurezza-e-privatezza): _PWN college cybersecurity CTF_ <img height="22" src="https://skillicons.dev/icons?i=bash" title="Bash, x86 Assembly" /> <img height="22" src="https://github.com/Favo02/Favo02/assets/59796435/d1808634-eeb1-4f64-80ca-e4d0afd2fb16" title="Bash, x86 Assembly" />
   - [Algoritmi e Strutture dati](https://github.com/Favo02-unimi/algoritmi-e-strutture-dati): _implementation of various algorithms and data structures_ <img height="22" src="https://skillicons.dev/icons?i=go" title="Go" />
 
