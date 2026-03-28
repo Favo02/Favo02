@@ -17,11 +17,11 @@
 
   <br/>
 
-- **Open source Projects**: `javascript`, `docker`, `linux`, `github actions`, `python`
+- **Various Projects**: `javascript`, `docker`, `linux`, `github actions`, `python`, `spark`
 
   - [Workspaces by open apps](https://github.com/Favo02/workspaces-by-open-apps): _GNOME shell extension_ <img height="22" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   - [HomeLab](https://github.com/Favo02/homelab): _homelab and self-hosting_ <img height="22" src="https://skillicons.dev/icons?i=docker,linux,githubactions" title="Docker, Linux, GitHub actions" />
-  - [SeeLabel (NOI Hackathon Summer 2024)](https://github.com/Favo02/see-label): _automatically and manually detect objects in a photo and export results_ <img height="22" src="https://skillicons.dev/icons?i=python,react" title="Python, React" />
+  - [Recommendation System](https://github.com/Favo02/recommendation-system): _distributed (Spark) implementation of a recommender system_ <img height="22" src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" /> <img height="22" src="https://skillicons.dev/icons?i=python" title="Python" />
 
   <br/>
 
@@ -34,9 +34,8 @@
 
   <br/>
 
-- **Noteworthy University courses**: `spark`, `ocaml`, `erlang`, `scala`, `pandas`, `matplotlib`, `bash`, `x86 assembly`, `go`
+- **Noteworthy University courses**: `ocaml`, `erlang`, `scala`, `pandas`, `matplotlib`, `bash`, `x86 assembly`, `go`
 
-  - [Recommendation System](https://github.com/Favo02/recommendation-system): _distributed (Spark) implementation of a recommender system_ <img height="22" src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" /> <img height="22" src="https://skillicons.dev/icons?i=python" title="Python" />
   - [Algorithms for Massive Datasets](https://github.com/Favo02/algorithms-for-massive-datasets): _handbook for big data algorithms course_ <img height="22" src="https://typst.app/assets/android-chrome-512x512.png" title="Typst" />
   - [Algoritmi e Complessita](https://github.com/Favo02/algoritmi-e-complessita): _handbook for algorithms complexity theory course_ <img height="22" src="https://typst.app/assets/android-chrome-512x512.png" title="Typst" />
   - [LP OCaml](https://github.com/Favo02/lp-ocaml): _functional programming_ <img height="22" src="https://skillicons.dev/icons?i=ocaml" title="OCaml" />
